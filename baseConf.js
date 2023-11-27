@@ -1,5 +1,5 @@
 
-	var apiUrl = 'http://kbb.panguh5.com:2201/hello.php';
+	var apiUrl = 'http://kbb3.panguh5.com:2201/hello.php';
 	var websiteUrl,appid,baseCDN,version = '';
 	var queryUrl = apiUrl
 	var urlParams = parseURLParams(window.location.href)
